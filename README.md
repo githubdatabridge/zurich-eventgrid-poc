@@ -1,6 +1,8 @@
 # PoC Demo - EventGrid
 PoC for exploring solution with EventGrid and System Topic Event produced buy Azure Blob Storage.
 
+![plot](/assets/Screenshot%202023-01-24%20161509.png)
+
 ## Resource requirements:
 - Create Service Principal [AppLocal] for auth by setting env on machine:
 
